@@ -1,4 +1,1 @@
-hola estamos provando git
-Ahora ya podemos crear y editar un repositorio
-Ahora cremos un proyecto con html y css
-La cosa se esta poniendo mejor 
+hola estamos provando git y ahora lo vamos a cambiar wey
