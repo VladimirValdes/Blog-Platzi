@@ -1,1 +1,2 @@
 hola estamos provando git
+Ahora ya podemos crear un repositorio
